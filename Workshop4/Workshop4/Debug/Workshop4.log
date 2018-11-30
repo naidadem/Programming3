@@ -1,0 +1,93 @@
+﻿  Source.cpp
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(15): error C2440: 'default argument': cannot convert from 'const char [19]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(15): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(366): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(377): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(386): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(403): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(419): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(426): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(430): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(437): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(484): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(527): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(538): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(573): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(590): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(604): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(606): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(620): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(622): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(635): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(637): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(649): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(655): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(660): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(669): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(671): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(679): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(681): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(691): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(693): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(704): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(706): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(726): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(731): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [14]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(731): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(732): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [17]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(732): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(733): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [11]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(733): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(734): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [17]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(734): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(735): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [12]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(735): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(736): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [13]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(736): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(737): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [19]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(737): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(738): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [15]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(738): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(739): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [13]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(739): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(740): error C2664: 'Clan::Clan(const Clan &)': cannot convert argument 1 from 'const char [17]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(740): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(744): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(744): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(745): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(745): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(746): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(746): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(747): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(747): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(748): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(748): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(749): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(749): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(749): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(750): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(750): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(751): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(751): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(752): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(752): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(753): error C2664: 'Knjiga::Knjiga(const Knjiga &)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(753): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(791): error C2664: 'void Bibilioteka::IzdajKnjigu(int,char *)': cannot convert argument 2 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(791): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(792): error C2664: 'void Bibilioteka::IzdajKnjigu(int,char *)': cannot convert argument 2 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(792): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(793): error C2664: 'void Bibilioteka::IzdajKnjigu(int,char *)': cannot convert argument 2 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(793): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(795): error C2664: 'void Bibilioteka::RazduziKnjigu(char *)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(795): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(805): error C2664: 'Knjiga *Bibilioteka::PronadjiKnjige(char *,char *)': cannot convert argument 1 from 'const char [15]' to 'char *'
+  c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(805): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(808): warning C4018: '<': signed/unsigned mismatch
+c:\users\naida demirovic\source\repos\workshop4\workshop4\source.cpp(818): warning C4018: '<': signed/unsigned mismatch
