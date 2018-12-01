@@ -84,7 +84,7 @@ public:
 		_delay = newDelay;
 	}
 
-	/* Unary operator "!" through which it is possible to find out if the corresponding flight is late or not (return logic
+	/* Logical negation operator "!" through which it is possible to find out if the corresponding flight is late or not (return logic
 		value "true" in case of delay, otherwise return "false".) */
 	friend bool operator!(const Flight&);
 
