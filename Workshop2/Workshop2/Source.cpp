@@ -88,8 +88,6 @@ class date
 	int _month;
 	int _year;
 public:
-
-	//Potrebne konstruktor i destruktor funkcije
 	date(int day = 1, int month = 1, int year = 2000)
 	{
 		_day = day;
@@ -342,22 +340,22 @@ int main()
 	//creating new article
 	Article noviArticle;
 	char text1[1000] = "Citas o pametnim gradovima? Mastas o zivotu u gradu koji prati najnovije tehnoloske trendove, a probleme parkinga, ustede elektricne energije, zagadjenja ili procjene kvalitete tla rjesava koristenjem senzora, automatizacije i mobilnih aplikacija? Doslo je TnameO da Mostar ucinis takvim gradom! Dodji na prezentaciju 13.10.2016. u 15:00 na FIT-u, na kojem mozes SetUserti pitanja i dobiti sve potrebne informacije o programu od osnivaca City OS-a gosp. Cece Gakovica. INTERA Tehnoloski Park, u suradnji sa CityOS Foundation, a uz financijsku podrsku Ministarstva vanjskih poslova Kraljevine Norveske, otvara besplatne prijave za CityOS hackathon koji ce se odrzati 22. i 23.10.2016.godine.";
-	noviArticle.SetUser("Otvorene prijave za CITYOS", text1, date(15, 10, 2016), TnameO(9, 12, 36), "Prezentacije", guest1);
+	noviArticle.SetUser("Opened applications for CITYOS", text1, date(15, 10, 2016), TnameO(9, 12, 36), "Presentations", guest1);
 
 	//adding tags
 	noviArticle.AddTag("intera");
 	noviArticle.AddTag("mostar");
-	noviArticle.AddTag("pametni gradovi");
+	noviArticle.AddTag("smart towns");
 	noviArticle.AddTag("fit");
 
 	//adding comments
-	noviArticle.AddComment(Comment("Zanimljivo, sigurno cu se prijaviti", date(15, 10, 2016), TnameO(9, 39, 11), guest2));
-	noviArticle.AddComment(Comment("bezveze", date(16, 10, 2016), TnameO(10, 33, 23), admin));
-	noviArticle.AddComment(Comment("kako cu se prijaviti?", date(16, 10, 2016), TnameO(15, 11, 45), guest3));
+	noviArticle.AddComment(Comment("Interesting, I will apply for sure", date(15, 10, 2016), TnameO(9, 39, 11), guest2));
+	noviArticle.AddComment(Comment("stupid", date(16, 10, 2016), TnameO(10, 33, 23), admin));
+	noviArticle.AddComment(Comment("How can I apply?", date(16, 10, 2016), TnameO(15, 11, 45), guest3));
 
 	//content change
-	noviArticle.ChangeContent(text1 + 28, TnameO(23, 59, 40), guest1); //IFirst sentence in text deleted
-	noviArticle.ChangeContent("novi text", TnameO(23, 59, 40), guest2); //Conent isn't changed because guest2 isn't the author of the original article text
+	noviArticle.ChangeContent(text1 + 28, TnameO(23, 59, 40), guest1); //First sentence in text deleted
+	noviArticle.ChangeContent("novi text", TnameO(23, 59, 40), guest2); //Content isn't changed because guest2 isn't the author of the original article text
 
 	noviArticle.Info(); //printing article
 
